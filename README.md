@@ -29,7 +29,7 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
+- Website - [Github](github.com/KenawMarie)
 - Frontend Mentor - [@KenawMarie](https://www.frontendmentor.io/profile/KenawMarie) 
  
 
